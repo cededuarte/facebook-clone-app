@@ -1,0 +1,11 @@
+.widgets {
+  margin-top: 90px;
+  margin-left: -80px;
+}
+
+.widget-container {
+  height: 500px;
+  width: 400px;
+  display: block;
+
+}
